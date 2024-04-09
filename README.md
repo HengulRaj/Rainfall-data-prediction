@@ -13,3 +13,10 @@ The primary objectives of this project are as follows:
 1) Detect Rainfall Patterns: Develop machine learning models capable of accurately detecting rainfall patterns based on historical weather data.
 2) Forecast Future Rainfall: Utilize trained models to forecast future rainfall patterns, enabling stakeholders to make informed decisions in various sectors, particularly agriculture.
 3) Evaluate Model Performance: Assess the performance of the developed models through rigorous evaluation techniques, ensuring reliability and accuracy in rainfall predictions.
+
+   
+## Technologies
+
+1) pandas
+2) numpy
+3) Lasso
